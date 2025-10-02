@@ -4,7 +4,8 @@
  `Matrícula : 01714611`
 ## Sumário
 
-- [guiaLinux](#guialinux
+- [guiaLinux](#guialinux)
+  - [Sumário](#sumário)
   - [🧱 Básicos](#-básicos)
   - [🛜 Comandos de Rede](#-comandos-de-rede)
   - [Gerenciamento de Arquivos](#gerenciamento-de-arquivos)
